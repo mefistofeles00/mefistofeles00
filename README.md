@@ -8,7 +8,7 @@ i have been writing code for 3 years and ı love interesting projects. If you wa
 
 * 🌍  I'm based in Turkey / Istanbul
 * ✉️  You can contact me at [zamanlar.01@gmail.com](mailto:zamanlar.01@gmail.com)
-* 🧠  I'm learning Laravel - C++
+* 🧠  I'm learning Laravel - VueJS
 
 ### Skills
 
