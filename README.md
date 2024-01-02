@@ -4,7 +4,7 @@ Hi 👋 My name is Abdullah inanc
 I'm a FullStack Developer and Security Researcher
 ------------------------------------------------
 
-i have been writing code for 3 years and ı love interesting projects. If you want work to me and met. Contact me!
+i have been writing code for 4 years and ı love interesting projects. If you want work to me and meet. Contact me!
 
 * 🌍  I'm based in Turkey / Istanbul
 * ✉️  You can contact me at [eroglu.abdullahinanc@gmail.com](mailto:eroglu.abdullahinanc@gmail.com)
