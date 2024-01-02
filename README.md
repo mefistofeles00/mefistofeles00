@@ -1,7 +1,7 @@
 Hi 👋 My name is Abdullah inanc
 ===============================
 
-I'm a Back-End Developer and Security Researcher
+I'm a FullStack Developer and Security Researcher
 ------------------------------------------------
 
 i have been writing code for 3 years and ı love interesting projects. If you want work to me and met. Contact me!
